@@ -21,7 +21,7 @@ This project combines **image segmentation, rooftop area estimation, and solar e
 
 - **Frontend:** Streamlit
 - **Backend:** Python
-- **Deep Learning:** PyTorch, CNN (can be upgraded to U-Net)
+- **Deep Learning:** PyTorch, CNN (U-Net also can be used but i used CNN)
 - **Libraries:** OpenCV, NumPy, Matplotlib, Pillow
 
 ---
